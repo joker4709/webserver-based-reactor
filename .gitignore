@@ -1,0 +1,7 @@
+# ignore build directory
+build/
+
+compile_commands.json
+
+# ignore .clangd
+.clangd/
